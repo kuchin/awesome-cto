@@ -22,20 +22,31 @@ A curated list of resources for CTO position, with the emphasis on startups
 ## Hiring
 
  * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky *(StackOverflow co-founder)*
+ * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky *(StackOverflow co-founder)*
  * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
+ * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood *(StackOverflow co-founder)*
 
 
 ## Development process
 
- * [Introduction to Scrum for Managers and Executives](http://www.goodagile.com/resources/goodagile_managers_presentation.pdf)
- * [Writing User Stories, Examples and Templates In Agile Methodologies](http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
+ * Scrum / Agile
+   * [Introduction to Scrum for Managers and Executives](http://www.goodagile.com/resources/goodagile_managers_presentation.pdf)
+   * [Writing User Stories, Examples and Templates In Agile Methodologies](http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
+ * CI / CD
+   * [What are the fundamental principles of continuous integration?](https://www.quora.com/What-are-the-fundamental-principles-of-continuous-integration)
+   * [The Product Managers’ Guide to Continuous Delivery and DevOps](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
+ * Git
+   * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+ * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
 
 
 ## Architecture
 
- * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/)
-   * [HackerNews related discussion](https://news.ycombinator.com/item?id=12508655)
+ * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
+ * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+ * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 
 ## Technologies
 
@@ -60,6 +71,11 @@ A curated list of resources for CTO position, with the emphasis on startups
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
+ * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
+ * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
+ * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+ * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
+ * [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
 
 
 ## More links
