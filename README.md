@@ -18,6 +18,8 @@ A curated list of resources for CTO position, with the emphasis on startups
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
  * [Three Golden Rules to Finding a CTO](http://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
  * [Becoming a CTO](https://juokaz.com/blog/becoming-a-cto)
+ * [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
+ * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
 
 ## Hiring
 
@@ -67,7 +69,6 @@ A curated list of resources for CTO position, with the emphasis on startups
 
 ## Related stuff
 
- * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
@@ -75,7 +76,8 @@ A curated list of resources for CTO position, with the emphasis on startups
  * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
- * [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
+ * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
+ * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 
 ## More links
