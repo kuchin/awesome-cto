@@ -1,6 +1,11 @@
 # Awesome CTO
 
-A curated list of resources for CTO position, with the emphasis on startups
+> &mdash; Hi, my name is Dima and I'm CTO
+>
+> &mdash; (chorus) Hello, Dima
+
+
+A curated **and opinionated** list of resources for Chief Technology Officers, with the emphasis on startups
 
 
 ## Contents
@@ -18,15 +23,15 @@ A curated list of resources for CTO position, with the emphasis on startups
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
  * [Three Golden Rules to Finding a CTO](http://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
  * [Becoming a CTO](https://juokaz.com/blog/becoming-a-cto)
- * [VP Engineering Vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
+ * [VP Engineering vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
 
 ## Hiring
 
  * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky *(StackOverflow co-founder)*
- * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky *(StackOverflow co-founder)*
+ * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
  * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
- * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood *(StackOverflow co-founder)*
+ * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
 
 
 ## Development process
@@ -40,7 +45,9 @@ A curated list of resources for CTO position, with the emphasis on startups
  * Git
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
    * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
- * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
+ * Planning
+   * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
+   * [Book] [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 
 ## Architecture
@@ -77,7 +84,6 @@ A curated list of resources for CTO position, with the emphasis on startups
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
- * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 
 ## More links
