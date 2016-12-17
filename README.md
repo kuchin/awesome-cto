@@ -63,6 +63,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [Big-O explained in plain English](http://stackoverflow.com/a/487278/472433)
  * Javascript
    * [SuperheroJS collection](http://superherojs.com)
+   * [JS: The Right Way](http://jstherightway.org)
  * Machine Learning
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  * Big scale
@@ -90,7 +91,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
  * [Awesome.re](https://github.com/sindresorhus/awesome)
- * [Chief Technology Officer VS Coder Thinker Organizer](https://github.com/92bondstreet/cto)
+ * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto)
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
  
  
