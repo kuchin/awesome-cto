@@ -15,6 +15,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Development process](#development-process)
  * [Architecture](#architecture)
  * [Technologies](#technologies)
+ * [Startups](#startups)
+ * [Related stuff](#related-stuff)
  * [More links](#more-links)
 
 
@@ -75,16 +77,21 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 
-## Related stuff
+## Startups
 
+ * [What are the things startups have to get right?](https://www.quora.com/What-are-the-things-startups-have-to-get-right) *(Quora)*
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
+ * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
+
+
+## Related stuff
+
  * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
  * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
- * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
 
 
 ## More links
