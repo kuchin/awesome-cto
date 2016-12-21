@@ -50,6 +50,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Book] [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+ * Crisis
+   * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
+   * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
 
 
 ## Architecture
@@ -67,7 +70,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [SuperheroJS collection](http://superherojs.com)
    * [JS: The Right Way](http://jstherightway.org)
  * Machine Learning
-   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
@@ -96,9 +99,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## More links
 
- * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
- * [Awesome.re](https://github.com/sindresorhus/awesome)
- * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto)
+ * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
+ * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
+ * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
  
  
