@@ -53,6 +53,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
+   * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) *(Eric Ries, creator of the Lean Startup)*
 
 
 ## Architecture
