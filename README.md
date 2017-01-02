@@ -58,6 +58,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## Architecture
 
+ * [Twelve-Factor App](https://12factor.net)
+ * [Reactive Manifesto](http://www.reactivemanifesto.org)
  * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
