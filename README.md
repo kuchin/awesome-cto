@@ -65,6 +65,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+ * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
 
 ## Technologies
 
