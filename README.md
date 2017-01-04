@@ -17,6 +17,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Technologies](#technologies)
  * [Startups](#startups)
  * [Related stuff](#related-stuff)
+ * [Marketing](#marketing)
  * [More links](#more-links)
 
 
@@ -99,6 +100,13 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+ 
+
+## Marketing
+
+ * [Developer Marketing Guide](https://www.devmarketingguide.com)
+ * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
+ * [SaaS Email Marketing Handbook](http://saasemailmarketing.net)
 
 
 ## More links
