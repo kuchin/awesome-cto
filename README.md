@@ -36,6 +36,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
  * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
+ * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
 
 
 ## Development process
@@ -84,6 +85,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [SaaS CTO Security Checklist](http://cto-security-checklist.sqreen.io)
  * Cloud
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+   * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+   * [Microsoft Azure in Plain English](https://www.expeditedssl.com/azure-in-plain-english)
+   * [Google Cloud Services for the AWS expert](http://cloudacademy.com/blog/google-cloud-services-aws-expert/)
 
 
 ## Startups
