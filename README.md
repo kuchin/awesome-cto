@@ -118,6 +118,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## More links
 
+ * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
  * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
