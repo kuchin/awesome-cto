@@ -37,6 +37,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
+ * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
 
 
 ## Development process
