@@ -95,6 +95,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 ## Startups
 
  * [What are the things startups have to get right?](https://www.quora.com/What-are-the-things-startups-have-to-get-right) *(Quora)*
+ * [85 Things I learned being a CEO](https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99)
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
