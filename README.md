@@ -79,6 +79,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Javascript
    * [SuperheroJS collection](http://superherojs.com)
    * [JS: The Right Way](http://jstherightway.org)
+   * [Frontend developer handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017/blob/master/SUMMARY.md)
  * Machine Learning
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
  * Big scale
