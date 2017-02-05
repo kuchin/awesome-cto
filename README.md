@@ -70,6 +70,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
+ * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
 
 ## Technologies
 
