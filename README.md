@@ -124,6 +124,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## More links
 
+ * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
  * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
