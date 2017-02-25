@@ -113,6 +113,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
+ * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+ * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+ * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  
 
 ## Marketing
