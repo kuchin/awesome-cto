@@ -38,6 +38,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
  * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
+ * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
+ * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
 
 
 ## Development process
