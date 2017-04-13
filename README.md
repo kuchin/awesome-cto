@@ -73,6 +73,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
+ * [Database Migrations Done Right](http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
 
 ## Technologies
 
