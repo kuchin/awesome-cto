@@ -118,6 +118,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
  * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+ * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  
 
