@@ -121,6 +121,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
+ * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  
 
 ## Marketing
