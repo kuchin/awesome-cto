@@ -67,6 +67,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](http://www.reactivemanifesto.org)
  * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [Shrinking microservices to functions](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
+ * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
