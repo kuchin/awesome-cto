@@ -109,6 +109,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
  * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
+ * [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
 
 
 ## Related stuff
