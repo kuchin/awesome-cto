@@ -12,6 +12,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
  * [General](#general)
  * [Hiring](#hiring)
+ * [Management](#management)
  * [Development process](#development-process)
  * [Architecture](#architecture)
  * [Technologies](#technologies)
@@ -39,9 +40,18 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
  * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
  * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
+ 
+## Management
+
  * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
  * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
-
+ * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+ * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+ * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
+ * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+ * [Google re:Work](https://rework.withgoogle.com)
+ * [44 Engineering Management Lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
 ## Development process
 
@@ -117,15 +127,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
  * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
  * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
- * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
- * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
- * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
- * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
- * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
- * [Google re:Work](https://rework.withgoogle.com)
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  
