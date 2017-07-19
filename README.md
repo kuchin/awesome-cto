@@ -18,6 +18,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Technologies](#technologies)
  * [Startups](#startups)
  * [Related stuff](#related-stuff)
+ * [Product](#product)
  * [Marketing](#marketing)
  * [More links](#more-links)
 
@@ -133,6 +134,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
+ 
+ 
+## Product
+ * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  
 
 ## Marketing
