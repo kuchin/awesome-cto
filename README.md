@@ -138,6 +138,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
+ * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
  
 
 ## Marketing
@@ -149,12 +150,13 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## More links
 
- * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
- * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
+ * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
+ * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
  * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
+ * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  
  
 ## License
