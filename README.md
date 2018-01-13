@@ -79,6 +79,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](http://www.reactivemanifesto.org)
  * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
  * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
