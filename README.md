@@ -53,6 +53,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [Google re:Work](https://rework.withgoogle.com)
  * [44 Engineering Management Lessons](http://www.defmacro.org/2014/10/03/engman.html)
+ * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
 
 ## Development process
 
