@@ -54,6 +54,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Google re:Work](https://rework.withgoogle.com)
  * [44 Engineering Management Lessons](http://www.defmacro.org/2014/10/03/engman.html)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
+ * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
 
 ## Development process
 
