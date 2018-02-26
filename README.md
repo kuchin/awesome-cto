@@ -127,7 +127,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
  * [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
-
+ * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/)
+ 
 
 ## Related stuff
 
@@ -138,7 +139,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
- 
+
  
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
