@@ -141,6 +141,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
+ * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 
  
 ## Product
