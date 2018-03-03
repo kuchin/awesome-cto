@@ -145,6 +145,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
+ * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html)
  
 
 ## Marketing
