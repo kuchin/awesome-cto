@@ -96,8 +96,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## Technologies
 
- * Algorithms
+ * General
    * [Big-O explained in plain English](http://stackoverflow.com/a/487278/472433)
+   * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
  * Javascript
    * [SuperheroJS collection](http://superherojs.com)
    * [JS: The Right Way](http://jstherightway.org)
