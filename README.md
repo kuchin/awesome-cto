@@ -107,6 +107,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Machine Learning
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
+   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
