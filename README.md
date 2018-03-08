@@ -56,6 +56,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
+ * [A Review Process](http://blog.capwatkins.com/a-review-process)
 
 ## Development process
 
