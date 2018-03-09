@@ -57,6 +57,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
  * [A Review Process](http://blog.capwatkins.com/a-review-process)
+ * [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
 
 ## Development process
 
@@ -76,6 +77,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) *(Eric Ries, creator of the Lean Startup)*
+   * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 
 
 ## Architecture
