@@ -58,6 +58,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
  * [A Review Process](http://blog.capwatkins.com/a-review-process)
  * [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
+ * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
 
 ## Development process
 
