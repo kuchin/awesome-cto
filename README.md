@@ -57,7 +57,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
  * [A Review Process](http://blog.capwatkins.com/a-review-process)
- * [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
+ * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
  * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
  * [How people rise up to EVP level in big organizations](https://www.quora.com/How-do-some-people-get-stuck-at-a-senior-engineer-position-while-a-few-starts-or-rise-up-to-EVP-level-in-big-organizations-like-Microsoft-Amazon-Apple-Google-What-exactly-should-I-keep-doing-to-go-up-the-ladder) *(Quora)*
 
