@@ -78,7 +78,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
-   * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) *(Eric Ries, creator of the Lean Startup)*
+   * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 
 
@@ -86,6 +86,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](http://www.reactivemanifesto.org)
+ * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
  * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
