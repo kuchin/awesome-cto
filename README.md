@@ -140,6 +140,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
  * [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
  * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/)
+ * [Options vs Cash](https://danluu.com/startup-options/)
  
 
 ## Related stuff
