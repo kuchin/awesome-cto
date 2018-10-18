@@ -42,6 +42,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
  * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
  * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
+ * [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - *(HackerNoon)*
  
 ## Management
 
@@ -62,6 +63,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
  * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
  * [How people rise up to EVP level in big organizations](https://www.quora.com/How-do-some-people-get-stuck-at-a-senior-engineer-position-while-a-few-starts-or-rise-up-to-EVP-level-in-big-organizations-like-Microsoft-Amazon-Apple-Google-What-exactly-should-I-keep-doing-to-go-up-the-ladder) *(Quora)*
+ * [Should I Become a Manager?](http://blog.capwatkins.com/should-i-become-a-manager) - Cap Watkins
+ * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 
 ## Development process
 
@@ -160,6 +163,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
  * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html)
  * [Product North Star Metric](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
+ * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
  
 
 ## Marketing
