@@ -158,6 +158,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
+ * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 
  
 ## Product
