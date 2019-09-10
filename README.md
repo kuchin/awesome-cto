@@ -169,6 +169,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Product North Star Metric](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
  * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
  * [How to Hire a Product Manager](https://library.gv.com/how-to-hire-a-product-manager-6be89e3533fd)
+ * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
 
 ## Marketing
 
