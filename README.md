@@ -88,6 +88,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
+   * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
 
 
 ## Architecture
