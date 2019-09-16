@@ -45,6 +45,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - *(HackerNoon)*
  * [How To Hire World-Class Engineers](https://angel.co/blog/how-to-hire-world-class-engineers) *(angel.co)*
  * [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
+ * [Reverse interview](https://github.com/viraptor/reverse-interview)
  
 ## Management
 
