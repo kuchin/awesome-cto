@@ -110,6 +110,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
  * [Database Migrations Done Right](http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+ * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
 
 ## Technologies
 
