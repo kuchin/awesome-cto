@@ -175,6 +175,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
  * [How to Hire a Product Manager](https://library.gv.com/how-to-hire-a-product-manager-6be89e3533fd)
  * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
+ * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
 
 ## Marketing
 
