@@ -66,7 +66,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
  * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
  * [How people rise up to EVP level in big organizations](https://www.quora.com/How-do-some-people-get-stuck-at-a-senior-engineer-position-while-a-few-starts-or-rise-up-to-EVP-level-in-big-organizations-like-Microsoft-Amazon-Apple-Google-What-exactly-should-I-keep-doing-to-go-up-the-ladder) *(Quora)*
- * [Should I Become a Manager?](http://blog.capwatkins.com/should-i-become-a-manager) - Cap Watkins
+ * [Should I Become a Manager?](http://capwatkins.com/blog/should-i-become-a-manager) - Cap Watkins
  * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
  * [Design Patterns for Managing Up](https://queue.acm.org/detail.cfm?id=3308563)
  * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
