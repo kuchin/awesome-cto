@@ -69,6 +69,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Should I Become a Manager?](http://blog.capwatkins.com/should-i-become-a-manager) - Cap Watkins
  * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
  * [Design Patterns for Managing Up](https://queue.acm.org/detail.cfm?id=3308563)
+ * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
 
 ## Development process
 
