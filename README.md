@@ -179,6 +179,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [How to Hire a Product Manager](https://library.gv.com/how-to-hire-a-product-manager-6be89e3533fd)
  * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
  * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
+ * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
 
 ## Marketing
 
