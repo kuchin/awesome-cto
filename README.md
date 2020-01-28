@@ -39,6 +39,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
  * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
+ * [Getting the Interview Phone Screen Right](https://blog.codinghorror.com/getting-the-interview-phone-screen-right/) - Jeff Atwood
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
  * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
  * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
