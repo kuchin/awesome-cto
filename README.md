@@ -198,6 +198,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
+ * [Free Tools for Developers](https://free-for.dev)
  
  
 ## License
