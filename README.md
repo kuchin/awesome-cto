@@ -181,6 +181,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
  * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
  * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
+ * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6)
 
 ## Marketing
 
