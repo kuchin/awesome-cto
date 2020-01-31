@@ -48,6 +48,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
  * [Reverse interview](https://github.com/viraptor/reverse-interview)
  * [The Real 11 Reasons I Don't Hire You](https://charity.wtf/2019/10/18/the-real-11-reasons-i-dont-hire-you/) - Charity Majors
+ * [How to Interview at Amazon](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
  
 ## Management
 
