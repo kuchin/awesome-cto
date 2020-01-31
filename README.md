@@ -117,6 +117,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Database Migrations Done Right](http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
+ * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## Technologies
 
