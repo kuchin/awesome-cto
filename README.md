@@ -79,6 +79,15 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
  * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
  * [Compensation Best Practices](https://www.payscale.com/cbpr)
+ * [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/)
+ * [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
+ * [After Being A Manager, Can I Be Happy As A Cog?](https://charity.wtf/2019/11/23/questionable-advice-after-being-a-manager-can-i-be-happy-as-a-cog/)
+ * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
+ * [Increment: Teams](https://increment.com/teams/)
+ * [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
+ * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
+ * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
+ 
 
 ## Development process
 
@@ -93,6 +102,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
+   * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
    * [Book] [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
