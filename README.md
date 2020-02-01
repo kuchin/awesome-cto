@@ -32,6 +32,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
+ * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
 
 ## Hiring
 
@@ -87,6 +88,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
+ * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  
 
 ## Development process
@@ -171,6 +173,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
  * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/)
  * [Options vs Cash](https://danluu.com/startup-options/)
+ * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
+ * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
+ * [Startup Playbook](Startup Playbook) - Sam Altman
+ * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  
 
 ## Related stuff
