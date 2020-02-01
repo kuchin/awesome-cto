@@ -76,6 +76,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [On-boarding Software Engineers](https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab)
  * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
  * [The Manager FAQ](http://www.seebs.net/faqs/manager.html)
+ * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
+ * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
+ * [Compensation Best Practices](https://www.payscale.com/cbpr)
 
 ## Development process
 
