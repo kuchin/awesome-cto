@@ -175,7 +175,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Options vs Cash](https://danluu.com/startup-options/)
  * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
  * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
- * [https://playbook.samaltman.com](Startup Playbook) - Sam Altman
+ * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  
 
