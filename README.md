@@ -89,6 +89,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
+ * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
  
 
 ## Development process
