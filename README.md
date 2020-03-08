@@ -206,6 +206,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
  * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
  * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6)
+ * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
 
 ## Marketing
 
