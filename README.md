@@ -223,6 +223,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
  * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
+ * [Senior Software Engineer](https://staffeng.com)
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
