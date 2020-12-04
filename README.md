@@ -231,6 +231,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Senior Software Engineer](https://staffeng.com)
  * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
+ * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
  
  
