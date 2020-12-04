@@ -93,6 +93,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
+ * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
  
 
 ## Development process
