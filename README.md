@@ -182,6 +182,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
  * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
+ * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  
 
 ## Related stuff
