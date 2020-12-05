@@ -93,7 +93,6 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
- * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
  
 
 ## Development process
@@ -199,7 +198,6 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
-
  
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
@@ -213,6 +211,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
  * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6)
  * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
+ * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
 
 ## Marketing
 
