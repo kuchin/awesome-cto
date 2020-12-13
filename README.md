@@ -27,7 +27,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [The Different CTO Roles](http://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
  * [Three Golden Rules to Finding a CTO](http://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
- * [Becoming a CTO](https://juokaz.com/blog/becoming-a-cto)
+ * [Becoming a CTO](https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto)
  * [VP Engineering vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
@@ -203,10 +203,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
- * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html)
+ * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/answers/Article/3143488/How-to-Find-Profitable-Business-Ideas)
  * [Product North Star Metric](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
  * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
- * [How to Hire a Product Manager](https://library.gv.com/how-to-hire-a-product-manager-6be89e3533fd)
+ * [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html)
  * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
  * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
  * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
