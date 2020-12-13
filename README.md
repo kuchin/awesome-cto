@@ -61,9 +61,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
  * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
- * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
- * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
- * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+
  * [Google re:Work](https://rework.withgoogle.com)
  * [44 Engineering Management Lessons](http://www.defmacro.org/2014/10/03/engman.html)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
@@ -94,6 +92,12 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
  
+## Playbooks
+
+ * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
+ * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+ * [Torii Developer Handbook](https://github.com/toriihq/handbook)
 
 ## Development process
 
