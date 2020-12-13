@@ -25,11 +25,11 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 
 ## General
- * [The Different CTO Roles](http://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
+ * [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
- * [Three Golden Rules to Finding a CTO](http://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
+ * [Three Golden Rules to Finding a CTO](https://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
  * [Becoming a CTO](https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto)
- * [VP Engineering vs CTO](http://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
+ * [VP Engineering vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
@@ -62,7 +62,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
  * [Google re:Work](https://rework.withgoogle.com)
- * [44 Engineering Management Lessons](http://www.defmacro.org/2014/10/03/engman.html)
+ * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
@@ -70,13 +70,13 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
  * [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit)
  * [How people rise up to EVP level in big organizations](https://www.quora.com/How-do-some-people-get-stuck-at-a-senior-engineer-position-while-a-few-starts-or-rise-up-to-EVP-level-in-big-organizations-like-Microsoft-Amazon-Apple-Google-What-exactly-should-I-keep-doing-to-go-up-the-ladder) *(Quora)*
- * [Should I Become a Manager?](http://capwatkins.com/blog/should-i-become-a-manager) - Cap Watkins
+ * [Should I Become a Manager?](https://capwatkins.com/blog/should-i-become-a-manager) - Cap Watkins
  * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
  * [Design Patterns for Managing Up](https://queue.acm.org/detail.cfm?id=3308563)
  * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
  * [On-boarding Software Engineers](https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab)
  * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
- * [The Manager FAQ](http://www.seebs.net/faqs/manager.html)
+ * [The Manager FAQ](https://www.seebs.net/faqs/manager.html)
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
  * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
  * [Compensation Best Practices](https://www.payscale.com/cbpr)
@@ -89,26 +89,26 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
- * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
+ * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
  
 ## Handbooks
 
  * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
- * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
 
 ## Development process
 
  * Scrum / Agile
-   * [Introduction to Scrum for Managers and Executives](http://www.goodagile.com/resources/goodagile_managers_presentation.pdf)
+   * [Introduction to Scrum for Managers and Executives](https://www.goodagile.com/resources/goodagile_managers_presentation.pdf)
    * [Writing User Stories, Examples and Templates In Agile Methodologies](http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
  * CI / CD
    * [What are the fundamental principles of continuous integration?](https://www.quora.com/What-are-the-fundamental-principles-of-continuous-integration)
-   * [The Product Managers’ Guide to Continuous Delivery and DevOps](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
+   * [The Product Managers’ Guide to Continuous Delivery and DevOps](https://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
  * Git
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+   * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
@@ -124,20 +124,20 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 ## Architecture
 
  * [Twelve-Factor App](https://12factor.net)
- * [Reactive Manifesto](http://www.reactivemanifesto.org)
+ * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
- * [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
- * [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
- * [Shrinking microservices to functions](http://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
+ * [Microservices – Please, don’t](https://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+ * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
  * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
- * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+ * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
- * [Database Migrations Done Right](http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
+ * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
@@ -146,7 +146,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 ## Technologies
 
  * General
-   * [Big-O explained in plain English](http://stackoverflow.com/a/487278/472433)
+   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
    * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
  * Javascript
    * [SuperheroJS collection](http://superherojs.com)
@@ -156,17 +156,17 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
    * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
-   * [Deep Learning For Coders](http://course.fast.ai)
+   * [Deep Learning For Coders](https://course.fast.ai)
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
-   * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
+   * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
  * Security
-   * [SaaS CTO Security Checklist](http://cto-security-checklist.sqreen.io)
+   * [SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
  * Cloud
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://www.expeditedssl.com/azure-in-plain-english)
-   * [Google Cloud Services for the AWS expert](http://cloudacademy.com/blog/google-cloud-services-aws-expert/)
+   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
 
 
 ## Startups
@@ -174,11 +174,11 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [What are the things startups have to get right?](https://www.quora.com/What-are-the-things-startups-have-to-get-right) *(Quora)*
  * [85 Things I learned being a CEO](https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99)
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
- * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
+ * [Things I will tell my kids if they become entrepreneurs](https://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
  * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
- * [Pitch deck collection from VC funded startups](http://alexanderjarvis.com/2015/05/19/pitch-deck-collection-from-vc-funded-startups/)
+ * [Pitch deck collection from VC funded startups](https://www.alexanderjarvis.com/pitch-deck-collection-from-vc-funded-startups/)
  * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/)
  * [Options vs Cash](https://danluu.com/startup-options/)
  * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
@@ -193,8 +193,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
  * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
- * [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
- * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
+ * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+ * [2016 European Software Development Salary Survey](https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
@@ -221,7 +221,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
  * [Developer Marketing Guide](https://www.devmarketingguide.com)
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
- * [SaaS Email Marketing Handbook](http://saasemailmarketing.net)
+ * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
 
 
 ## More links
@@ -232,7 +232,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
  * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Senior Software Engineer](https://staffeng.com)
- * [Socal CTO](http://www.socalcto.com/2011/09/startup-cto.html)
+ * [Socal CTO](https://www.socalcto.com/2011/09/startup-cto.html)
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
@@ -240,4 +240,4 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
