@@ -13,6 +13,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [General](#general)
  * [Hiring](#hiring)
  * [Management](#management)
+ * [Handbooks](#handbooks)
  * [Development process](#development-process)
  * [Architecture](#architecture)
  * [Technologies](#technologies)
@@ -92,12 +93,11 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](http://delian.io/lessons-3)
  
-## Playbooks
+## Handbooks
 
  * [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
- * [Torii Developer Handbook](https://github.com/toriihq/handbook)
 
 ## Development process
 
