@@ -62,7 +62,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
  * [Google re:Work](https://rework.withgoogle.com)
- * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html)
+ * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html) (correct link to [non-violent communication](https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles) for lesson 34)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
