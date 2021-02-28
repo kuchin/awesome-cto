@@ -5,7 +5,7 @@
 > &mdash; (chorus) Hello, Dima
 
 
-A curated **and opinionated** list of resources for Chief Technology Officers, with the emphasis on startups
+A curated **and opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
 
 
 ## Contents
@@ -166,7 +166,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * Cloud
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
-   * [Microsoft Azure in Plain English](https://www.expeditedssl.com/azure-in-plain-english)
+   * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
 
 
