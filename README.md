@@ -127,7 +127,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
- * [Microservices – Please, don’t](https://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
