@@ -109,8 +109,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
    * [The Product Managers’ Guide to Continuous Delivery and DevOps](https://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
  * Git
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-   * [Trunk Based Development](https://trunkbaseddevelopment.com/) - Branching strategy that prioritizes CI
    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+   * Alternative: [Trunk Based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) (focused on [DevOps and CI/CD](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development))
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
