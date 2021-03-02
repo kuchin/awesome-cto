@@ -34,7 +34,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
-
+ * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
 ## Hiring
 
  * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky *(StackOverflow co-founder)*
