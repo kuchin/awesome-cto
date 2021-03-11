@@ -43,7 +43,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
  * [Getting the Interview Phone Screen Right](https://blog.codinghorror.com/getting-the-interview-phone-screen-right/) - Jeff Atwood
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
- * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
+ * [Improving Our Engineering Interview Process](https://medium.com/foursquare-direct/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
  * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
  * [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - *(HackerNoon)*
  * [How To Hire World-Class Engineers](https://angel.co/blog/how-to-hire-world-class-engineers) *(angel.co)*
