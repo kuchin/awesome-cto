@@ -188,6 +188,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
+ * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  
 
 ## Related stuff
