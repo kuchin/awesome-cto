@@ -98,6 +98,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+ * [How HashiCorp Works](https://works.hashicorp.com/)
 
 ## Development process
 
