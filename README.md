@@ -90,8 +90,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
- * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/)
- 
+ * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/) 
+ * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
+
 ## Handbooks
 
  * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
