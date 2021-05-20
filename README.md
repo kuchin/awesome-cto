@@ -1,11 +1,11 @@
 # Awesome CTO
 
-> &mdash; Hi, my name is Dima and I'm CTO
+> &mdash; Hello, my name is Dima and I'm CTO
 >
-> &mdash; (chorus) Hello, Dima
+> &mdash; (chorus) Welcome, Dima
 
 
-A curated **and opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
+A curated and **opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
 
 
 ## Contents
