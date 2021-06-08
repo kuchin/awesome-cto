@@ -165,7 +165,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
  * Security
-   * [SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
+   * [SaaS CTO Security Checklist](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
  * Cloud
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
