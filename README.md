@@ -21,6 +21,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Related stuff](#related-stuff)
  * [Product](#product)
  * [Marketing](#marketing)
+ * [Books](#books)
  * [More links](#more-links)
 
 
@@ -116,7 +117,6 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
-   * [Book] [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
@@ -228,6 +228,10 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
 
+## Books
+
+ * [Epic CTO Reading List](https://www.goodreads.com/list/show/36429.Epic_CTO_Reading_List)
+   * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 ## More links
 
