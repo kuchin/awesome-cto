@@ -93,6 +93,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
  * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/) 
  * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
+ * [7 Ways to Set Up a New Hire for Success](https://hbr.org/2019/05/7-ways-to-set-up-a-new-hire-for-success)
 
 ## Handbooks
 
