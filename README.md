@@ -216,7 +216,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
  * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/answers/Article/3143488/How-to-Find-Profitable-Business-Ideas)
- * [Product North Star Metric](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
+ * [Product North Star Metric](https://amplitude.com/blog/product-north-star-metric)
  * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
  * [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html)
  * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
@@ -225,6 +225,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6)
  * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
  * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
+ * [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
 
 ## Marketing
 
