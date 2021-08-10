@@ -257,7 +257,9 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
- 
+
+## Other
+- [Awesome TPM](https://github.com/kuchin/awesome-tpm)
  
 ## License
 
