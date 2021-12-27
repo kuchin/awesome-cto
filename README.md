@@ -10,7 +10,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
 
 ## Contents
 
- * [General](#general)
+ * [CTO Position](#cto-position)
  * [Hiring](#hiring)
  * [Management](#management)
  * [Handbooks](#handbooks)
@@ -26,7 +26,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [More links](#more-links)
 
 
-## General
+## CTO Position
 
  * [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
@@ -38,6 +38,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
  * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
+
 
 ## Hiring
 
@@ -57,7 +58,8 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
- 
+
+
 ## Management
 
  * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
@@ -96,6 +98,10 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/) 
  * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
  * [7 Ways to Set Up a New Hire for Success](https://hbr.org/2019/05/7-ways-to-set-up-a-new-hire-for-success)
+ * [How to get promoted](https://www.spakhm.com/p/how-to-get-promoted)
+ * [Individuals matter](https://danluu.com/people-matter/)
+ * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
+
 
 ## Handbooks
 
@@ -104,6 +110,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [How HashiCorp Works](https://works.hashicorp.com/)
+
 
 ## Development process
 
@@ -120,6 +127,8 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
+   * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
+   * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
@@ -150,15 +159,15 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
+
 ## Technologies
 
  * General
    * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
    * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
  * Javascript
-   * [SuperheroJS collection](http://superherojs.com)
    * [JS: The Right Way](http://jstherightway.org)
-   * [Frontend developer handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017/blob/master/SUMMARY.md)
+   * [Frontend developer handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/)
  * Machine Learning
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
@@ -194,7 +203,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
- 
+
 
 ## Related stuff
 
@@ -211,7 +220,8 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
- 
+
+
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
@@ -226,12 +236,16 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
  * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
  * [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
+ * [8 Product Hurdles Every Founder Must Clear](https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks)
+
 
 ## Marketing
 
  * [Developer Marketing Guide](https://www.devmarketingguide.com)
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
+ * [How today's fastest growing B2B businesses found their first ten customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses)
+
 
 ## Finance
 
@@ -240,10 +254,12 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
  * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
 
+
 ## Books
 
  * [Epic CTO Reading List](https://www.goodreads.com/list/show/36429.Epic_CTO_Reading_List)
  * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+
 
 ## More links
 
@@ -258,9 +274,11 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
 
+
 ## Other
 - [Awesome TPM](https://github.com/kuchin/awesome-tpm)
- 
+
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
