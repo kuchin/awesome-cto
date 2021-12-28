@@ -88,7 +88,6 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/)
  * [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
  * [After Being A Manager, Can I Be Happy As A Cog?](https://charity.wtf/2019/11/23/questionable-advice-after-being-a-manager-can-i-be-happy-as-a-cog/)
- * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
  * [Increment: Teams](https://increment.com/teams/)
  * [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
