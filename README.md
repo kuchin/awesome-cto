@@ -12,7 +12,8 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
 
  * [CTO Position](#cto-position)
  * [Hiring](#hiring)
- * [Management](#management)
+ * [People management](#management)
+ * [Project management](#project-management)
  * [Handbooks](#handbooks)
  * [Development process](#development-process)
  * [Architecture](#architecture)
@@ -102,6 +103,13 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
 
 
+## Project management
+
+ * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
+ * [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+ * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
+
+
 ## Handbooks
 
  * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
@@ -123,11 +131,9 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
    * Alternative: [Trunk Based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) (focused on [DevOps and CI/CD](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development))
- * Planning
-   * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
+ * Tech debt
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
    * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
-   * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
  * Crisis
    * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
@@ -202,6 +208,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
+ * [IPOs and Beyond: A Guide to Exit Options for Companies](https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/)
 
 
 ## Related stuff
