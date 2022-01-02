@@ -19,10 +19,10 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Architecture](#architecture)
  * [Technologies](#technologies)
  * [Startups](#startups)
+ * [Money / Finance](#money--finance)
  * [Related stuff](#related-stuff)
  * [Product](#product)
  * [Marketing](#marketing)
- * [Finance](#finance)
  * [Books](#books)
  * [More links](#more-links)
 
@@ -197,18 +197,28 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
  * [Things I will tell my kids if they become entrepreneurs](https://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
  * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments) *(Quora)*
- * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
  * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit) *(Quora)*
  * [Pitch deck collection from VC funded startups](https://www.alexanderjarvis.com/pitch-deck-collection-from-vc-funded-startups/)
  * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/)
- * [Options vs Cash](https://danluu.com/startup-options/)
- * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
- * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
  * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
- * [IPOs and Beyond: A Guide to Exit Options for Companies](https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/)
+
+
+## Money / Finance
+
+ * Startups
+   * [IPOs and Beyond: A Guide to Exit Options for Companies](https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/)
+   * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
+   * [Options vs Cash](https://danluu.com/startup-options/)
+   * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
+   * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
+ * Big companies
+   * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
+   * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
+   * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
+   * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
 
 
 ## Related stuff
@@ -251,14 +261,6 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
  * [How today's fastest growing B2B businesses found their first ten customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses)
-
-
-## Finance
-
- * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
- * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
- * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
- * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
 
 
 ## Books
