@@ -204,6 +204,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
+ * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
 
 
 ## Money / Finance
