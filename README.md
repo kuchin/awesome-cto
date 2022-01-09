@@ -206,7 +206,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
  * [Nfx See what others do not. - NFX is a venture firm exclusively focused on pre-seed & seed stage startups.](https://www.nfx.com)
- * [foundr - Training from the world's greatest entrepreneurs](https://foundr.com)
+ * [foundr - Training from the world's greatest entrepreneurs.](https://foundr.com)
 
 
 ## Money / Finance
