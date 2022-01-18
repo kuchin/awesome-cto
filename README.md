@@ -59,6 +59,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
+ * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
 
 
 ## Management
