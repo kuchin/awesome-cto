@@ -206,8 +206,6 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
- * [Nfx See what others do not. - NFX is a venture firm exclusively focused on pre-seed & seed stage startups.](https://www.nfx.com)
- * [foundr - Training from the world's greatest entrepreneurs.](https://foundr.com)
 
 
 ## Money / Finance
@@ -285,6 +283,8 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
+ * [NfX - The Founder Library](https://www.nfx.com)
+ * [foundr - Advices from founders](https://foundr.com/articles)
 
 
 ## Other
