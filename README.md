@@ -216,6 +216,7 @@ A curated and **opinionated** list of resources for Chief Technology Officers an
    * [Options vs Cash](https://danluu.com/startup-options/)
    * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
    * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
+   * [Startup Economics equity calculator](https://smartasset.com/infographic/startup)
  * Big companies
    * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
    * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
