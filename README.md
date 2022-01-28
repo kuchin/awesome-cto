@@ -5,7 +5,7 @@
 > &mdash; (chorus) Welcome, Dima
 
 
-A curated and **opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
+A curated and **opinionated** list of resources for [Chief Technology Officers and VP R&D](https://kuchin.github.io/awesome-cto/), with the emphasis on startups and hyper-growth companies.
 
 
 ## Contents
