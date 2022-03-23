@@ -109,6 +109,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
  * [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
  * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
+ * [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do)
 
 
 ## Handbooks
