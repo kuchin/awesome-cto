@@ -80,6 +80,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Should I Become a Manager?](https://capwatkins.com/blog/should-i-become-a-manager) - Cap Watkins
  * [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
  * [Design Patterns for Managing Up](https://queue.acm.org/detail.cfm?id=3308563)
+ * [A Tactical Guide to Managing Up](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know)
  * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
  * [On-boarding Software Engineers](https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab)
  * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
