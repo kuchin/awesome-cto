@@ -103,6 +103,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How to get promoted](https://www.spakhm.com/p/how-to-get-promoted)
  * [Individuals matter](https://danluu.com/people-matter/)
  * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
+ * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304)
 
 
 ## Project management
