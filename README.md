@@ -192,7 +192,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
-
+   * [Kubernetes: Practical Considerations For Startups](https://www.argonaut.dev/blog/2022/04/14/kubernetes-practical-considerations)
+   
 
 ## Startups
 
