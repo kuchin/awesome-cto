@@ -129,6 +129,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Introduction to Scrum for Managers and Executives](https://www.goodagile.com/resources/goodagile_managers_presentation.pdf)
    * [Writing User Stories, Examples and Templates In Agile Methodologies](http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
  * CI / CD
+   * [What you should know before setting up your first CI/CD pipeline](https://dev.to/argonaut/what-you-should-know-before-setting-up-your-first-cicd-pipeline-2m24)
    * [What are the fundamental principles of continuous integration?](https://www.quora.com/What-are-the-fundamental-principles-of-continuous-integration)
    * [The Product Managers’ Guide to Continuous Delivery and DevOps](https://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
  * Git
