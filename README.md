@@ -104,6 +104,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Individuals matter](https://danluu.com/people-matter/)
  * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
  * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304)
+ * [Adapting to Endure / Crisis management](https://www.sequoiacap.com/adapting-to-endure-2022/) - Sequoia
 
 
 ## Career growth
