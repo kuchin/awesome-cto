@@ -12,7 +12,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
  * [CTO Position](#cto-position)
  * [Hiring](#hiring)
- * [People management](#management)
+ * [People management](#people-management)
+ * [Career growth](#career-growth)
  * [Project management](#project-management)
  * [Handbooks](#handbooks)
  * [Development process](#development-process)
@@ -62,7 +63,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
 
 
-## Management
+## People Management
 
  * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
  * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
@@ -92,7 +93,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
  * [After Being A Manager, Can I Be Happy As A Cog?](https://charity.wtf/2019/11/23/questionable-advice-after-being-a-manager-can-i-be-happy-as-a-cog/)
  * [Increment: Teams](https://increment.com/teams/)
- * [Career Growth Frameworks in Software Engineering: A Review](https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
@@ -104,7 +104,14 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Individuals matter](https://danluu.com/people-matter/)
  * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
  * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304)
+ * [Adapting to Endure / Crisis management](https://www.sequoiacap.com/adapting-to-endure-2022/) - Sequoia
 
+
+## Career growth
+ * [Career Growth Frameworks in Software Engineering: A Review](https://web.archive.org/web/20210123114037/https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
+ * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
+ * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders)
+ * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)
 
 ## Project management
 
@@ -259,6 +266,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
  * [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
  * [8 Product Hurdles Every Founder Must Clear](https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks)
+ * [Product Manager Career Ladders](https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1578462935) - Lenny Rachitsky
 
 
 ## Marketing
