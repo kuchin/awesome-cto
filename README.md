@@ -20,6 +20,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Architecture](#architecture)
  * [Technologies](#technologies)
  * [Startups](#startups)
+ * [Due Diligence](#due-diligence)
  * [Money / Finance](#money--finance)
  * [Related stuff](#related-stuff)
  * [Product](#product)
@@ -216,7 +217,13 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
+ 
 
+## Due Diligence
+ * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
+ * [Technical Due Diligence Questions](https://github.com/altunyurt/technical_due_diligence)
+ * [IT Department Tech Due Diligence Checklist](https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13)
+ * [A Guide to Surviving Tech Due Diligence](https://circleci.com/resources/tech-due-diligence/)
 
 ## Money / Finance
 
@@ -248,7 +255,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
- * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
 
 
 ## Product
