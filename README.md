@@ -1,6 +1,6 @@
 # Awesome CTO
 
-> &mdash; Hello, my name is Dima and I'm CTO
+> &mdash; Hello, my name is Dima and I'm a CTO
 >
 > &mdash; (chorus) Welcome, Dima
 
@@ -190,11 +190,14 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
    * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
    * [Deep Learning For Coders](https://course.fast.ai)
+   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
  * Security
    * [SaaS CTO Security Checklist](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+ * Search
+   * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering)
  * Cloud
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
