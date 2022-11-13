@@ -106,6 +106,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
  * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304)
  * [Adapting to Endure / Crisis management](https://www.sequoiacap.com/adapting-to-endure-2022/) - Sequoia
+ * [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) - Matt Mochary
 
 
 ## Career growth
