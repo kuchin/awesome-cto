@@ -111,8 +111,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## Career growth
  * [Career Growth Frameworks in Software Engineering: A Review](https://web.archive.org/web/20210123114037/https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
  * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
- * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders)
- * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)
+ * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) *(GitHub)*
+ * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) *(GitHub)*
 
 ## Project management
 
@@ -172,7 +172,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
  * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
- * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+ * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
@@ -277,6 +277,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
  * [8 Product Hurdles Every Founder Must Clear](https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks)
  * [Product Manager Career Ladders](https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1578462935) - Lenny Rachitsky
+ * [Awesome Product Management](https://github.com/dend/awesome-product-management) *(GitHub)*
+ * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) *(GitHub)*
 
 
 ## Marketing
