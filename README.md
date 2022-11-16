@@ -7,6 +7,8 @@
 
 A curated and **opinionated** list of resources for [Chief Technology Officers and VP R&D](https://kuchin.github.io/awesome-cto/), with the emphasis on startups and hyper-growth companies.
 
+📢 [Subscribe to get updates](https://awesomecto.substack.com/)
+
 
 ## Contents
 
