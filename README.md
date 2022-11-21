@@ -251,7 +251,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## Related stuff
 
  * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
- * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
+ * [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
  * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
