@@ -1,6 +1,6 @@
 # Awesome CTO
 
-> &mdash; Hello, my name is Dima and I'm a CTO
+> &mdash; Hello, my name is Dima and I'm a CTO of a company
 >
 > &mdash; (chorus) Welcome, Dima
 
