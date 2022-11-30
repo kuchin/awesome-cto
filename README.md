@@ -151,7 +151,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
    * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
  * Crisis
-   * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
+   * [How to Write a Postmortem](https://web.archive.org/web/20210618014202/https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
