@@ -21,6 +21,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Development process](#development-process)
  * [Architecture](#architecture)
  * [Technologies](#technologies)
+ * [Data](#data)
  * [Startups](#startups)
  * [Due Diligence](#due-diligence)
  * [Money / Finance](#money--finance)
@@ -151,7 +152,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
    * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
  * Crisis
-   * [How to Write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
+   * [How to Write a Postmortem](https://web.archive.org/web/20210618014202/https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
@@ -168,13 +169,10 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
  * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
- * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
- * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
- * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
@@ -190,12 +188,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Javascript
    * [JS: The Right Way](http://jstherightway.org)
    * [Frontend developer handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/)
- * Machine Learning
-   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
-   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
-   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
-   * [Deep Learning For Coders](https://course.fast.ai)
-   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
@@ -210,6 +202,28 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
  * Pricing
    * [Awesome PriceOps](https://github.com/priceops/awesome-priceops)
+
+
+## Data
+
+ * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
+ * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
+ * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
+ * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+ * [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+ * [DataOps](https://en.wikipedia.org/wiki/Dataops)
+ * Data Science
+   * [Building a data science team](https://fastdatascience.com/building-a-data-science-team/)
+   * [Managing Data Science Teams](https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/)
+   * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
+ * Machine Learning
+   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
+   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
+   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
+   * [Deep Learning For Coders](https://course.fast.ai)
+   * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 
 ## Startups
@@ -258,9 +272,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
  * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
  * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
- * [2016 European Software Development Salary Survey](https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
+ * [2016 European Software Development Salary Survey](http://web.archive.org/web/20170412051943/https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
- * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
  * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
