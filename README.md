@@ -67,7 +67,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Reverse Interview
    * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
    * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
-   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
+   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
 
 
 ## People Management
@@ -178,14 +178,14 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
- * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+ * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) *(GitHub)*
 
 
 ## Technologies
 
  * General
    * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
-   * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+   * [Coding Interview University](https://github.com/jwasham/coding-interview-university) *(GitHub)*
  * Javascript
    * [JS: The Right Way](http://jstherightway.org)
    * [Frontend developer handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/)
@@ -195,14 +195,14 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Security
    * [SaaS CTO Security Checklist](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
  * Search
-   * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering)
+   * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) *(GitHub)*
  * Cloud
-   * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+   * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) *(GitHub)*
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
  * Pricing
-   * [Awesome PriceOps](https://github.com/priceops/awesome-priceops)
+   * [Awesome PriceOps](https://github.com/priceops/awesome-priceops) *(GitHub)*
 
 
 ## Data
@@ -222,8 +222,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
    * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
    * [Deep Learning For Coders](https://course.fast.ai)
-   * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
-   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+   * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) *(GitHub)*
    * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 
@@ -241,12 +240,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
- * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
+ * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) *(GitHub)*
  
 
 ## Due Diligence
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
- * [Technical Due Diligence Questions](https://github.com/altunyurt/technical_due_diligence)
+ * [Technical Due Diligence Questions](https://github.com/altunyurt/technical_due_diligence) *(GitHub)*
  * [IT Department Tech Due Diligence Checklist](https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13)
  * [A Guide to Surviving Tech Due Diligence](https://circleci.com/resources/tech-due-diligence/)
 
@@ -333,7 +332,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 
 ## Other
-- [Awesome TPM](https://github.com/kuchin/awesome-tpm)
+- [Awesome TPM](https://github.com/kuchin/awesome-tpm) *(GitHub)*
 
 
 ## License
