@@ -176,8 +176,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
- * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
- * [The 5 Pillars of PriceOps](https://priceops.org)
 
 
 ## Technologies
