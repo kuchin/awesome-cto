@@ -63,8 +63,11 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How to Interview at Amazon](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
- * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
+ * Reverse Interview
+   * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
+   * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
+   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
 
 
 ## People Management
@@ -276,7 +279,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
-
+ * [How to Use OpenAPI and Swagger for Documentation](https://blog.readme.com/how-to-use-openapi-and-swagger-spec-for-documentation/)
 
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
@@ -293,6 +296,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
  * [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
  * [8 Product Hurdles Every Founder Must Clear](https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks)
+ * [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers)
  * [Product Manager Career Ladders](https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1578462935) - Lenny Rachitsky
  * [Awesome Product Management](https://github.com/dend/awesome-product-management) *(GitHub)*
  * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) *(GitHub)*
