@@ -21,6 +21,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Development process](#development-process)
  * [Architecture](#architecture)
  * [Technologies](#technologies)
+ * [Data](#data)
  * [Startups](#startups)
  * [Due Diligence](#due-diligence)
  * [Money / Finance](#money--finance)
@@ -168,17 +169,13 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
  * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
- * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
- * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
- * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
- * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
 
 ## Technologies
@@ -207,6 +204,15 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
+
+
+## Data
+
+ * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
+ * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
+ * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
+ * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+ * [DataOps](https://en.wikipedia.org/wiki/Dataops)
 
 
 ## Startups
@@ -257,7 +263,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
  * [2016 European Software Development Salary Survey](http://web.archive.org/web/20170412051943/https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
- * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
  * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
