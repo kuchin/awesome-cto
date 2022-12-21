@@ -186,12 +186,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Javascript
    * [JS: The Right Way](http://jstherightway.org)
    * [Frontend developer handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/)
- * Machine Learning
-   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
-   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
-   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
-   * [Deep Learning For Coders](https://course.fast.ai)
-   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
  * Big scale
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
@@ -218,6 +212,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Building a data science team](https://fastdatascience.com/building-a-data-science-team/)
    * [Managing Data Science Teams](https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/)
    * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
+ * Machine Learning
+   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
+   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
+   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
+   * [Deep Learning For Coders](https://course.fast.ai)
+   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 
 ## Startups
