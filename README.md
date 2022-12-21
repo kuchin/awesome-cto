@@ -217,6 +217,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
    * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
    * [Deep Learning For Coders](https://course.fast.ai)
+   * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
    * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 
