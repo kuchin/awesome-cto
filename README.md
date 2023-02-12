@@ -64,10 +64,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
- * Reverse Interview
-   * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
-   * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
-   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
 
 
 ## People Management
@@ -120,6 +116,10 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
  * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) *(GitHub)*
  * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) *(GitHub)*
+ * Reverse Interview
+   * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
+   * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
+   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
 
 ## Project management
 
