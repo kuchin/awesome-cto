@@ -332,6 +332,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 
 ## Other
+- [Awesome CEO](https://github.com/kuchin/awesome-ceo) *(GitHub)*
 - [Awesome TPM](https://github.com/kuchin/awesome-tpm) *(GitHub)*
 
 
