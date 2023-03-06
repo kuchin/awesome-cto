@@ -178,6 +178,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
  * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [GitHub CTO – Biggest architectural mistake was going full microservice](https://twitter.com/jasoncwarner/status/1592227285024636928) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=33601658))
  * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
@@ -275,6 +276,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
    * [Startup Economics equity calculator](https://smartasset.com/infographic/startup)
    * [Option grants at seed](https://www.indexventures.com/rewardingtalent/option-grants-at-seed)
+   * [Joining the new startup, with a handsome stock option allocation](https://twitter.com/gergelyorosz/status/1601134509424267264) - Gergely Orosz
    * [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/) - Gergely Orosz
  * Big companies
    * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
