@@ -89,7 +89,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [A Tactical Guide to Managing Up](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know)
  * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
  * [On-boarding Software Engineers](https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab)
- * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
+ * [Hold Your Team Accountable](https://www.dave-bailey.com/blog/accountability-dial)
  * [The Manager FAQ](https://www.seebs.net/faqs/manager.html)
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
  * [Performance reviews are coming up](https://www.linkedin.com/posts/gergelyorosz_performancereviews-softwarengineering-career-activity-7008079544171528192-D2fF/) - Gergely Orosz
