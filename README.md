@@ -333,6 +333,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
  * [Epic CTO Reading List](https://www.goodreads.com/list/show/36429.Epic_CTO_Reading_List)
  * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+ * [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/)
 
 
 ## More links
