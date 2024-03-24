@@ -189,7 +189,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
  * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
- * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
+ * [The Single Most Important Internal Email in the History of Amazon](https://web.archive.org/web/20221127150918/https://pulseasync.com/operators/frameworks-for-remote-working/)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) *(GitHub)*
  * [Accentuate the negative: making the non-perfect decision. Technical decision making](https://leaddev.com/technical-decision-making/accentuate-negative-making-non-perfect-decision)
 
