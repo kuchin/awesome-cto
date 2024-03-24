@@ -145,6 +145,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [How HashiCorp Works](https://works.hashicorp.com/)
+ * [MeteorOps CTO DevOps Handbook](https://www.meteorops.com/blog/the-cto-devops-handbook-simple-principles-and-examples)
 
 
 ## Development process
