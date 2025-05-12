@@ -45,6 +45,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/) - Will Larson
  * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
  * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
+ * [Evolution of my role as a founder CTO](https://miguelcarranza.es/cto), [Year 4 Update](https://miguelcarranza.es/cto-year-4), [Year 5 Update](https://miguelcarranza.es/cto-year-5) - Miguel Carranza
 
 
 ## Hiring
