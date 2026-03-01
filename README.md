@@ -66,6 +66,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
+ * [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas. Free first question.
  * [Visualizing Tech Company Layoffs in 2022](https://www.visualcapitalist.com/visualizing-tech-company-layoffs-in-2022/)
 
 
