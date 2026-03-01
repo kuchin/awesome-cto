@@ -354,6 +354,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [The Leadership Library for Engineers](https://leadership-library.dev)
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
  * [Engineering Managers Slack](https://engmanagers.github.io)
+ * [Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers. Weekly newsletter with 50+ Notion templates for EMs.
  * [CTO Framework](https://ctoframework.com)
  * [CTO Insights Podcast](https://ctoinsights.adevait.com/)
 
