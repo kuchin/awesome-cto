@@ -318,6 +318,9 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Product Manager Career Ladders](https://docs.google.com/spreadsheets/d/1F1Y3YtjsvAJUZMqS-rK0LGQGg7eHYubq9KqedPwLCDE/edit#gid=1578462935) - Lenny Rachitsky
  * [Awesome Product Management](https://github.com/dend/awesome-product-management) *(GitHub)*
  * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) *(GitHub)*
+ * [Tech for Founders](https://github.com/isumitsoni/tech-for-founders) - Technical fluency for non-technical founders: scope better, hire better, evaluate vendors, and build without getting steamrolled.
+ * [Claude Code for Founders](https://github.com/isumitsoni/claude-code-for-founders) - Practical course for founders shipping AI products with Claude Code, from MVP scoping to evals and production hardening.
+ * [AI Feature Specs](https://github.com/isumitsoni/ai-feature-specs) - Production-ready AI feature spec templates for RAG, summarization, classification, recommendations, and more.
 
 
 ## Marketing
