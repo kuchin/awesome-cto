@@ -191,6 +191,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [The Single Most Important Internal Email in the History of Amazon](https://web.archive.org/web/20221127150918/https://pulseasync.com/operators/frameworks-for-remote-working/)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) *(GitHub)*
  * [Accentuate the negative: making the non-perfect decision. Technical decision making](https://leaddev.com/technical-decision-making/accentuate-negative-making-non-perfect-decision)
+ * [Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons](https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)
 
 
 ## Technologies
