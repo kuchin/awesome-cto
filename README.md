@@ -29,6 +29,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Product](#product)
  * [Marketing](#marketing)
  * [Books](#books)
+ * [Podcasts](#podcasts)
  * [More links](#more-links)
 
 
@@ -335,6 +336,18 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/)
 
 
+## Podcasts
+
+ * [Chain of Thought](https://www.chainofthought.show/) - AI infrastructure and engineering leadership interviews
+ * [CTO Insights Podcast](https://ctoinsights.adevait.com/) - Stories and advice from CTOs
+ * [The Engineering Leadership Podcast](https://engineeringleadership.xyz/) - How engineering leaders build and scale teams
+ * [Lenny's Podcast](https://www.lennyspodcast.com/) - Product, growth, and engineering management
+ * [Level Up Engineering](https://codingsans.com/engineering-management-podcast) - Engineering management practices from industry leaders
+ * [The Pragmatic Engineer Podcast](https://blog.pragmaticengineer.com/podcast/) - Inside tech hiring, engineering culture, and career growth
+ * [Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily technical interviews covering infrastructure, platforms, and developer tools
+ * [Tech Lead Journal](https://techleadjournal.dev/) - Technical leadership, architecture, and career development
+
+
 ## More links
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
@@ -353,7 +366,6 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
  * [Engineering Managers Slack](https://engmanagers.github.io)
  * [CTO Framework](https://ctoframework.com)
- * [CTO Insights Podcast](https://ctoinsights.adevait.com/)
 
 
 ## Other
