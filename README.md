@@ -67,6 +67,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
  * [Visualizing Tech Company Layoffs in 2022](https://www.visualcapitalist.com/visualizing-tech-company-layoffs-in-2022/)
+ * [AI Dev Jobs](https://aidevboard.com) - Aggregated AI/ML job board with 6,000+ positions from 289+ companies and a free API
 
 
 ## People Management
