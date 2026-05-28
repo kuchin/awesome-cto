@@ -154,6 +154,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * CI / CD
    * [What are the fundamental principles of continuous integration?](https://www.quora.com/What-are-the-fundamental-principles-of-continuous-integration)
    * [The Product Managers’ Guide to Continuous Delivery and DevOps](https://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
+   * [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator: plan-based lifecycle, verification gates, and multi-agent coordination for structured AI development *(GitHub)*
  * Git
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
