@@ -78,6 +78,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Google re:Work](https://rework.withgoogle.com)
  * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html) (correct link to [non-violent communication](https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles) for lesson 34)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
+ * [Engineering Leadership Statistics](https://www.marian.coach/engineering-leadership-statistics/) - Marian Kamenistak *(open data from 3,400+ mentoring sessions: mentee seniority mix, most demanded topics)*
  * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
  * [A Review Process](https://capwatkins.com/blog/a-review-process) - Cap Watkins
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
