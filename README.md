@@ -208,6 +208,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Security
    * [Awesome Security](https://github.com/sbilly/awesome-security) *(GitHub)*
    * [SaaS CTO Security Checklist](https://web.archive.org/web/20230324072622/https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+   * [SOC 2 Readiness Checklist for Startup CTOs](https://wizbang.pro/blog/soc2-readiness-checklist-startup-cto) - 8-week practical playbook for getting SOC 2 Type II certified
  * Search
    * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) *(GitHub)*
  * Cloud
