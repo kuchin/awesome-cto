@@ -264,6 +264,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Technical Due Diligence Questions](https://github.com/altunyurt/technical_due_diligence) *(GitHub)*
  * [IT Department Tech Due Diligence Checklist](https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13)
  * [A Guide to Surviving Tech Due Diligence](https://circleci.com/resources/tech-due-diligence/)
+ * [DDScore](https://www.ddscore.ai/) - DDScore is made by Playful Pixels Oy. It turns private-company materials into a structured, repeatable 0–100 Due Diligence Score across 12 dimensions and a full written report for pre-data-room triage. It supports judgement and does not replace technical or full due diligence.
 
 ## Money / Finance
 
