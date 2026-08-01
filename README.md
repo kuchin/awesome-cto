@@ -265,6 +265,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [IT Department Tech Due Diligence Checklist](https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13)
  * [A Guide to Surviving Tech Due Diligence](https://circleci.com/resources/tech-due-diligence/)
 
+ * [DAUDIT — Decision-Context Engine](https://www.daudit.net) — Audit your thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before committing to irreversible decisions
+
 ## Money / Finance
 
  * Startups
