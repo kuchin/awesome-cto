@@ -277,6 +277,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Option grants at seed](https://www.indexventures.com/rewardingtalent/option-grants-at-seed)
    * [Joining the new startup, with a handsome stock option allocation](https://twitter.com/gergelyorosz/status/1601134509424267264) - Gergely Orosz
    * [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/) - Gergely Orosz
+ * Tools
+   * [SmartBizCalc](https://www.smartbizcalc.com) — 430+ free business calculators for startup founders and small business owners (startup cost, break-even, payroll tax, S-corp savings, profit margin, insurance)
  * Big companies
    * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
    * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
@@ -364,3 +366,4 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
