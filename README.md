@@ -347,6 +347,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
+ * [A11yKit - Free Web Accessibility & WCAG Compliance Toolkit](https://a11ykit.site)
  * [NfX - The Founder Library](https://www.nfx.com)
  * [foundr - Advices from founders](https://foundr.com/articles)
  * [The Leadership Library for Engineers](https://leadership-library.dev)
