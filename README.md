@@ -326,6 +326,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
  * [How today's fastest growing B2B businesses found their first ten customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses)
+ * [GEOKit - Generative Engine Optimization (GEO) & AI SEO Toolkit](https://geokit.site) - Free tools for CTOs and technical founders to prepare web apps for AI search engines (llms.txt, AI robots.txt, schema graph).
 
 
 ## Books
