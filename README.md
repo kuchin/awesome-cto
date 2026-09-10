@@ -257,7 +257,9 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) *(GitHub)*
- 
+ * [Startup Security Policies](https://github.com/TrazTech-Inc/startup-security-policies) - Open-source security policy templates for startups preparing for SOC 2 and ISO 27001 audits *(GitHub)*
+ * [How to Build a Security Budget When You Have No Security Team](https://traztech.ca/blog/startup-security-budget) - Practical guide to allocating security spend at an early-stage company
+
 
 ## Due Diligence
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
