@@ -173,6 +173,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Architecture
 
+ * [Spec-Driven Development (SDD)](https://myspec.dev) - Architectural specification framework for AI coding workflows generating 4-file spec bundles (`constitution`, `requirements`, `solution`, `tasks`) to maintain system invariants and prevent architectural drift.
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
