@@ -234,7 +234,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Data Science
    * [Building a data science team](https://fastdatascience.com/building-a-data-science-team/)
    * [Managing Data Science Teams](https://domino.ai/resources/field-guide/managing-data-science-teams/)
-   * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/how-to-structure-data-science-team-key-models-and-roles/)
+   * [How to Structure a Data Science Team](https://web.archive.org/web/20231208002947/https://www.altexsoft.com/blog/how-to-structure-data-science-team-key-models-and-roles/)
  * Machine Learning
    * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) *(GitHub)*
    * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
