@@ -102,7 +102,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Increment: Teams](https://increment.com/teams/)
  * [Hacking team communications](https://noamelf.com/posts/hacking-team-communications/)
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
- * [Hug your manager](https://cote.substack.com)
+ * [Hug your manager](https://web.archive.org/web/20240714095658id_/https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
  * [How Context Switching Sabotages Your Productivity](https://async.twist.com/context-switching/)
  * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
@@ -224,7 +224,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Data
 
- * [NoSQL Databases: a Survey and Decision Guidance](https://vuink.com/post/zrqvhz-d-dondraq-d-dpbz/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
+ * [NoSQL Databases: a Survey and Decision Guidance](https://web.archive.org/web/20160816032217/https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
  * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
