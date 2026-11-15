@@ -161,6 +161,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * Tech debt
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
    * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
+   * [AI Slop Code Risk Monitor](https://slopcodemonitor.ai/) - Empirical static-analysis benchmark across 7,100+ GitHub repositories tracking cognitive debt, supply-chain verification, and PR review velocity
  * Crisis
    * [How to Write a Postmortem](https://web.archive.org/web/20210618014202/https://blog.serverdensity.com/how-to-write-a-postmortem/)
    * [List of Post-mortems](https://github.com/danluu/post-mortems) *(GitHub)*
